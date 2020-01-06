@@ -1,0 +1,19 @@
+{
+    "name": "detect_encoding", 
+    "version": "0.0.1", 
+    "description": "To detect encoding type", 
+    "cordova": {
+      "id": "cordova-plugin-detect_encodings", 
+      "platforms": [ 
+        "ios" 
+      ]
+    },
+    "keywords": [ 
+      "cordova",
+      "camera",
+      "ecosystem:cordova",
+      "cordova-ios"
+    ],
+    "author": "winlinaung", 
+    "license": "MIT" 
+  }
